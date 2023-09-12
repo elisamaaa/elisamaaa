@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 😄
 
-<!--
-**elisamaaa/elisamaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é elisama alves
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem Javascript
+- utilizo esse espaço para minha organização e compartilhamento de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você pode entrar em contato comigo pelo
+
+  - elisama.silva30@escola.pr.gov.br
+ 
+  - @elisamaaa
+
+![](https://media.tenor.com/xNZXMzHEsr4AAAAC/indo-ali.gif)
